@@ -215,7 +215,7 @@
         "valueType": "string",
         "name": "description",
         "value": "",
-        "label": "Description",
+        "label": "Description"
       }
     ]
   }
