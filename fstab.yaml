@@ -3,4 +3,4 @@ mountpoints:
     url: "https://author-p9508-e1092846.adobeaemcloud.com/bin/franklin.delivery/the-dugi/crosswalk/main"
     type: "markup"
     suffix: ".html"
-  /gd: "https://drive.google.com/drive/folders/1ZWUam6qbwNUeEY63kWJ37EjYJfekQBu3"
+  /gd: https://drive.google.com/drive/folders/1MqHzpzmJUsy1_g4G138XT0t0Twrd9Pao
