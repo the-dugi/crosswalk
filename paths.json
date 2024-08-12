@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/crosswalk/:/",
-    "/content/crosswalk/configuration:/.helix/config.json"
+    "/content/pf-landigpage-2/:/",
+    "/content/pf-landigpage-2/configuration:/.helix/config.json"
   ]
 }
